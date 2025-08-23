@@ -24,3 +24,37 @@ This script uses [yt-dlp](https://github.com/yt-dlp/yt-dlp) and ensures download
 - Sample_Data (2).png # Screenshot 2
 - Sample_Data (3).png # Screenshot 3
 - README.md # This file
+
+---
+
+## ⚙️ Setup Instructions
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name
+```
+### 2. Create and activate virtual environment
+```bash
+python -m venv env
+# Windows PowerShell
+.\env\Scripts\Activate.ps1
+```
+### 3. Install Dependencies
+```bash
+pip install yt-dlp
+pip install ffmpeg-python
+```
+Prepare required files
+1.Update the paths in audio_downloading.py:
+2.CSV_PATH → path to your processing.csv
+3.OUTPUT_DIR → folder where outputs will be stored
+4.COOKIES_FILE → path to cookies.txt
+### 4. Run File
+```bash
+python audio_downloading.py
+```
+
+
+
+
