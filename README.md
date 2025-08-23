@@ -46,10 +46,10 @@ pip install yt-dlp
 pip install ffmpeg-python
 ```
 ## Prepare required files
-1. Update the paths in audio_downloading.py:
-2.CSV_PATH → path to your processing.csv
-3.OUTPUT_DIR → folder where outputs will be stored
-4.COOKIES_FILE → path to cookies.txt
+Update the paths in audio_downloading.py:
+CSV_PATH → path to your processing.csv
+OUTPUT_DIR → folder where outputs will be stored
+COOKIES_FILE → path to cookies.txt
 ### 4. Run File
 ```bash
 python audio_downloading.py
