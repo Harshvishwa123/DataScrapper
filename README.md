@@ -45,8 +45,8 @@ python -m venv env
 pip install yt-dlp
 pip install ffmpeg-python
 ```
-Prepare required files
-1.Update the paths in audio_downloading.py:
+## Prepare required files
+1. Update the paths in audio_downloading.py:
 2.CSV_PATH → path to your processing.csv
 3.OUTPUT_DIR → folder where outputs will be stored
 4.COOKIES_FILE → path to cookies.txt
