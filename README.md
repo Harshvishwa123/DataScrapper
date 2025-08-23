@@ -54,6 +54,15 @@ COOKIES_FILE → path to cookies.txt
 ```bash
 python audio_downloading.py
 ```
+---
+## 🖼️ Screenshots
+
+Here are some sample outputs:
+
+![Sample Data 1](./Sample_Data%20(1).png)  
+![Sample Data 2](./Sample_Data%20(2).png)  
+![Sample Data 3](./Sample_Data%20(3).png)
+
 
 
 
