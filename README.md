@@ -16,11 +16,11 @@ This script uses [yt-dlp](https://github.com/yt-dlp/yt-dlp) and ensures download
 ---
 
 ## 📂 Project Structure
-─ audio_downloading.py # Main script
-─ cookies.txt # YouTube cookies (update regularly)
-─ processing.csv # Input file containing video links
-─ output2/ # Generated audio + metadata
-─ Sample_Data (1).png # Screenshot 1
-─ Sample_Data (2).png # Screenshot 2
-─ Sample_Data (3).png # Screenshot 3
-─ README.md # This file
+- audio_downloading.py # Main script
+- cookies.txt # YouTube cookies (update regularly)
+- processing.csv # Input file containing video links
+- output2/ # Generated audio + metadata
+- Sample_Data (1).png # Screenshot 1
+- Sample_Data (2).png # Screenshot 2
+- Sample_Data (3).png # Screenshot 3
+- README.md # This file
